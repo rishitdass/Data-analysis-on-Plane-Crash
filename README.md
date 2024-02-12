@@ -15,13 +15,14 @@ The project is structured as follows:
    - A pie chart was created to illustrate the distribution of fatalities versus survivors across all recorded airplane crashes. This visualization highlights the proportion of fatalities compared to the number of survivors.
    - Ground fatalities were examined separately to understand the impact of airplane crashes on the ground. 
    - A pie chart comparison was made between ground fatalities resulting from the 9/11 attacks and ground fatalities from other airplane crashes, offering insights into the severity of ground fatalities in different scenarios.
-
+![Image Description](https://github.com/rishitdass/Data-analysis-on-Plane-Crash/blob/37162e77a08daec743a67376cb30b71f62144ecd/visualization/2.png)
 4. **Fatalities and Abroad Passengers**: A graph was created to depict the relationship between fatalities and the number of passengers abroad. This visualization helps understand the correlation between these two variables in airplane crashes.
-
+![Image Description](https://github.com/rishitdass/Data-analysis-on-Plane-Crash/blob/37162e77a08daec743a67376cb30b71f62144ecd/visualization/4.png) 
 5. **Most Crashes and Fatalities by Operator**: Graphs were generated to identify the operators with the highest number of crashes and fatalities. This analysis sheds light on the safety records of different airline operators.
-
+![Image Description](https://github.com/rishitdass/Data-analysis-on-Plane-Crash/blob/37162e77a08daec743a67376cb30b71f62144ecd/visualization/5.png) 
 6. **Fatalities and Crashes by Military and Civilian**: The fatalities and crash counts were compared between military and civilian aircraft. This comparison provides insights into the safety performance of military and civilian aviation sectors.
-
+![Image Description](https://github.com/rishitdass/Data-analysis-on-Plane-Crash/blob/37162e77a08daec743a67376cb30b71f62144ecd/visualization/3.png)
+![Image Description](https://github.com/rishitdass/Data-analysis-on-Plane-Crash/blob/37162e77a08daec743a67376cb30b71f62144ecd/visualization/6.png)  
 ## Key Observations
 
 - The trend of airplane crashes shows fluctuations over the years, with certain periods experiencing higher frequencies of crashes.
@@ -32,5 +33,18 @@ The project is structured as follows:
 - Identification of operators with the highest crash and fatality counts provides insights into safety performance and potential areas for improvement. AEROFLOT stands out as the operator responsible for the most fatalities and deaths, highlighting areas for further investigation and safety improvement.
 - Comparison of fatalities and crash counts between military and civilian aircraft offers a glimpse into the safety records of different aviation sectors. There was a tremendous increase in military crashes and fatalities during World War II, underscoring the unique challenges and risks faced by military aviation during wartime.
 
-## Repository Structure
+## Instructions for Reproduction
+
+To reproduce the analysis and visualizations:
+
+1. Clone this repository to your local machine.
+2. Ensure you have Python and the necessary libraries installed.
+3. Run the Jupyter notebooks in the `notebooks/` directory to perform data cleaning and exploratory data analysis.
+4. View the generated plots in the `plots/` directory to visualize the results.
+
+## Acknowledgments
+
+Special thanks to the contributors of the dataset used in this project.
+
+[https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908](https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908)
 
